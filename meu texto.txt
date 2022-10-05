@@ -1,1 +1,3 @@
-minha primeira vez tentando aprender git e git hub, primeiro passo rumo à programação foi dado!
+minha primeira vez tentando aprender git e git hub, primeiro passo rumo à programação foi dado! 
+
+outra linha de codigo teste
